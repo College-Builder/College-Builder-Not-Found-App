@@ -7,7 +7,7 @@ a custom [404 web page](https://collegebuilder.easyvirtual.net/404) for requests
   <img src="https://github.com/College-Builder/College-Builder/blob/main/global-assets/College-Builder-Not-Found-App/page-image.png">
 </a>
 
-## AWS Baisc API Gateway Structure
+## Baisc AWS API Gateway Structure
 
 The API Gateway is configured with the following structure:
 
