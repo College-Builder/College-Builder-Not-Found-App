@@ -132,3 +132,11 @@ The API Gateway is configured with the following structure:
   - Type: object
     
   - Title: Empty Schema
+ 
+##  License
+
+This script is licensed under the GNU General Public License, Version 3, 29 June 2007.
+
+Feel free to use, modify, and distribute this script as per the terms of the license.
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://opensource.org/licenses/GPL-3.0)
