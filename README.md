@@ -1,11 +1,13 @@
 # College-Builder REST API Gateway
 
 This repository contains an Express app written in TypeScript, specifically designed to run on AWS Lambda. The app's primary purpose is to serve 
-a custom 404 web page for requests that are not found within [College Builder Website](https://collegebuilder.easyvirtual.net/) using AWS REST API Gateway.
+a custom [404 web page](https://collegebuilder.easyvirtual.net/404) for requests that are not found within [College Builder Website](https://collegebuilder.easyvirtual.net/) using AWS REST API Gateway.
 
-<img src="https://github.com/College-Builder/College-Builder/blob/main/global-assets/College-Builder-Not-Found-App/page-image.png">
+<a href="https://collegebuilder.easyvirtual.net/404">
+  <img src="https://github.com/College-Builder/College-Builder/blob/main/global-assets/College-Builder-Not-Found-App/page-image.png">
+</a>
 
-## Baisc API Gateway Structure
+## AWS Baisc API Gateway Structure
 
 The API Gateway is configured with the following structure:
 
