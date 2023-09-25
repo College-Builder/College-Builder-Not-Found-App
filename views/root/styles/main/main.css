@@ -19,7 +19,7 @@ main > div:first-of-type > div {
 }
 main > div:first-of-type > div::before {
   z-index: -1;
-  content: "404!";
+  content: '404!';
   color: black;
   font-size: 9.1em;
   font-weight: bold;
