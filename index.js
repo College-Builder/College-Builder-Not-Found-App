@@ -11,10 +11,3 @@ const app = (0, express_1.default)();
 app.set('view engine', 'ejs');
 app.use('*', router_1.default);
 exports.handler = (0, serverless_http_1.default)(app);
-/*
-const port = 1999;
-app.listen(port, () => {
-    console.clear();
-    console.log(`http://localhost:${port}`);
-});
-*/
