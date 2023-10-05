@@ -9,7 +9,7 @@
     "skipLibCheck": true /* Skip type checking of all declaration files (*.d.ts) */,
     "forceConsistentCasingInFileNames": true,
 
-    "outDir": "./" /* Redirect output structure to the directory */,
+    "outDir": "./dist" /* Redirect output structure to the directory */,
 
     "rootDir": "./src" /* Specify the root directory of input files. */,
     "baseUrl": "./src" /* Base directory to resolve non-relative module names. */,
