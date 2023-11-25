@@ -8,6 +8,6 @@ const express_1 = __importDefault(require("express"));
 const serverless_http_1 = __importDefault(require("serverless-http"));
 const router_1 = __importDefault(require("./router/router"));
 const app = (0, express_1.default)();
-app.set('view engine', 'ejs');
 app.use('*', router_1.default);
 exports.handler = (0, serverless_http_1.default)(app);
+app.listen(2003);
